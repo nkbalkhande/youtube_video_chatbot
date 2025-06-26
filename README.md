@@ -56,6 +56,9 @@ To use this project, you need an API key from Google Gemini Large Language Model
 ![image_alt](https://github.com/nkbalkhande/youtube_video_chatbot/blob/main/Screenshot%202025-06-26%20170312.png?raw=true)
 
 
+![image_alt](https://github.com/nkbalkhande/youtube_video_chatbot/blob/main/Screenshot%202025-06-26%20170345.png?raw=true)
+
+
 
 
 ##  Requirements
